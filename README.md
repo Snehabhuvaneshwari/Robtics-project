@@ -911,30 +911,26 @@ Since then, we’ve also been focusing on helping other organizations in their b
 </body>
 </html>
 	    Contact.css
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Flying Robot</title>
-    <style>
-        body{
-            background: paleturquoise;
-            font-size: 20px;
-        }
-        h1{
-            align-items: center;
-            color: red;
-        }
-        k{
-            color: rgb(218, 215, 250);
-        }
-        img{
-            width: 500px;
-            height: 500px;
-        }
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body
+{
+    height: 100%;
+	width: 100%;
+	background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(images/bg-2.jpg);
+	background-position: center;
+	background-size: cover;
+	position: absolute;
 
-    </style>
-</head>
+}
+.img{
+    position: relative;
+	row-gap: 5px;
+	padding: 25px 0;
+}
 
       
   
