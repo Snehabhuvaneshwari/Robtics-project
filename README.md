@@ -584,48 +584,7 @@ var swiper = new Swiper(".side-content", {
 		},
 	}
   })
-  
-Delivery.html
-      
-      
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Delivery</title>
-    <style>
-        body{
-            background: paleturquoise;
-            font-size: 20px;
-        }
-        h1{
-            align-items: center;
-            color: red;
-        }
-        k{
-            color: rgb(218, 215, 250);
-        }
-        img{
-            width: 500px;
-            height: 500px;
-        }
-
-    </style>
-</head>
-<body>
-    <h1 >Delivery</h1>
-    <img src="https://th.bing.com/th/id/OIP.X8NCbrYYVHDmchQfGKxbGwHaE7?pid=ImgDet&rs=1" name="img" aligin="center">
-    <p>
-        In Japan, you can get sushi delivered by robot. And in Houston, you can get pizza. Fast-food chain Domino’s has partnered with the robotics company Nuro to launch a pilot program that delivers fresh-made pizzas via self-driving AMR robots. All customers have to do is opt in to Nuro’s R2 delivery service, meet the robot outside when it arrives and enter an access pin to unlock the door and get their pizza
-    </p>
-    <h3 name="k">CREATOR</h3>
-    <p>Domino’s</p>
-    <h3 name="k">COUNTRY</h3>
-    <p>Japan</p>
-</body>
-</html>
-      
-Bionicopter.html
+  Bionicopter.html
       
 <!DOCTYPE html>
 <html lang="en">
@@ -836,6 +795,156 @@ pepper.html
     <p>Dash Robotics</p>
     <h3 name="k">COUNTRY</h3>
     <p>United States</p>
+</body>
+</html>
+	    Robugtix.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Robugtix</title>
+    <style>
+        body{
+            background: paleturquoise;
+            font-size: 20px;
+        }
+        h1{
+            align-items: center;
+            color: red;
+        }
+        k{
+            color: rgb(218, 215, 250);
+        }
+        img{
+            width: 500px;
+            height: 500px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1 >Robugtix</h1>
+    <img src="https://i1.wp.com/www.techmymoney.com/wp-content/uploads/2013/07/Robugtix-T8.jpg?fit=766%2C541&ssl=1" name="img" aligin="center">
+    <p>
+        Our first advanced robot was the T8 spider, for which we used 3D printing methods in a time when very few were using it for robotics. To control the robot, we developed an inverse kinematics engine that amused the world and for this achievement, we received a lot of positive reviews and coverage. After seeing how our T8 entertained the public, we decided to make a mass-produced version of it, the T8X, to make it more accessible for people.
+
+Since then, we’ve also been focusing on helping other organizations in their businesses wherever robotics applied. 
+    </p>
+    <h3 name="k">CREATOR</h3>
+    <p>Robugtix</p>
+    <h3 name="k">COUNTRY</h3>
+    <p>Hong Kong</p>
+</body>
+</html>
+	    
+	    ASimo.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Asimo</title>
+    <style>
+        body{
+            background: paleturquoise;
+            font-size: 20px;
+        }
+        h1{
+            align-items: center;
+            color: red;
+        }
+        k{
+            color: rgb(218, 215, 250);
+        }
+        img{
+            width: 500px;
+            height: 500px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1 >Asimo</h1>
+    <img src="https://th.bing.com/th/id/OIP.0DgJvloRxNlBiEgMtJJHqQHaEK?pid=ImgDet&rs=1" name="img" aligin="center">
+    <p>
+        Honda has spent more than a decade building ASIMO, a humanoid robot that the company hopes will someday help us around the house. ASIMO, which stands for Advanced Step in Innovative Mobility, can communicate in American and Japanese sign language, run at speeds of up to 5.6 miles per hour and predict and respond to its surroundings. Though ASIMO is not currently for sale, Honda hopes it will hit stores by 2030.
+    <h3 name="k">CREATOR</h3>
+    <p>Honda</p>
+    <h3 name="k">COUNTRY</h3>
+    <p>Japan</p>
+</body>
+</html>
+	    Flying.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flying Robot</title>
+    <style>
+        body{
+            background: paleturquoise;
+            font-size: 20px;
+        }
+        h1{
+            align-items: center;
+            color: red;
+        }
+        k{
+            color: rgb(218, 215, 250);
+        }
+        img{
+            width: 500px;
+            height: 500px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1 >Flying Robot</h1>
+    <img src="https://i.pinimg.com/originals/ea/4f/8a/ea4f8a45d96f5c43eba78aec554ce9ff.jpg" name="img" aligin="center">
+    <p>
+        "Our early ideas of making a flying humanoid robot came up around 2016," Daniele Pucci, head of the Artificial and Mechanical Intelligence lab that carried out the study, told TechXplore. "The main purpose was to conceive robots that could operate in disaster-like scenarios, where there are survivors to rescue inside partially destroyed buildings, and these buildings are difficult to reach because of potential floods and fire around them."
+    </p>
+    <h3 name="k">CREATOR</h3>
+    <p>Daniele Pucci</p>
+    <h3 name="k">COUNTRY</h3>
+    <p>Japan</p>
+</body>
+</html>
+	    Contact.css
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flying Robot</title>
+    <style>
+        body{
+            background: paleturquoise;
+            font-size: 20px;
+        }
+        h1{
+            align-items: center;
+            color: red;
+        }
+        k{
+            color: rgb(218, 215, 250);
+        }
+        img{
+            width: 500px;
+            height: 500px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1 >Flying Robot</h1>
+    <img src="https://i.pinimg.com/originals/ea/4f/8a/ea4f8a45d96f5c43eba78aec554ce9ff.jpg" name="img" aligin="center">
+    <p>
+        "Our early ideas of making a flying humanoid robot came up around 2016," Daniele Pucci, head of the Artificial and Mechanical Intelligence lab that carried out the study, told TechXplore. "The main purpose was to conceive robots that could operate in disaster-like scenarios, where there are survivors to rescue inside partially destroyed buildings, and these buildings are difficult to reach because of potential floods and fire around them."
+    </p>
+    <h3 name="k">CREATOR</h3>
+    <p>Daniele Pucci</p>
+    <h3 name="k">COUNTRY</h3>
+    <p>Japan</p>
 </body>
 </html>
       
