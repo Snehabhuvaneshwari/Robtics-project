@@ -935,18 +935,7 @@ Since then, we’ve also been focusing on helping other organizations in their b
 
     </style>
 </head>
-<body>
-    <h1 >Flying Robot</h1>
-    <img src="https://i.pinimg.com/originals/ea/4f/8a/ea4f8a45d96f5c43eba78aec554ce9ff.jpg" name="img" aligin="center">
-    <p>
-        "Our early ideas of making a flying humanoid robot came up around 2016," Daniele Pucci, head of the Artificial and Mechanical Intelligence lab that carried out the study, told TechXplore. "The main purpose was to conceive robots that could operate in disaster-like scenarios, where there are survivors to rescue inside partially destroyed buildings, and these buildings are difficult to reach because of potential floods and fire around them."
-    </p>
-    <h3 name="k">CREATOR</h3>
-    <p>Daniele Pucci</p>
-    <h3 name="k">COUNTRY</h3>
-    <p>Japan</p>
-</body>
-</html>
+
       
   
       
